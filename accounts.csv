@@ -1,0 +1,3 @@
+account_number,pin,amount,status
+123456789,1234,7000.0,active
+987654321,5678,8000.0,active
